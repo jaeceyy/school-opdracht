@@ -1,0 +1,3 @@
+tText = "Test"
+
+print("Test")
